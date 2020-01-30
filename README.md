@@ -1,0 +1,1 @@
+This is Chud's first git project!
